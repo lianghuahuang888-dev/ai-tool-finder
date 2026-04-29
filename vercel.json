@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [{"src": "**", "use": "@vercel/static"}],
+  "routes": [
+    {"src": "/", "dest": "/index.html"},
+    {"src": "/tools/(.*)", "dest": "/tools/$1.html"},
+    {"src": "/blog/(.*)", "dest": "/blog.html"},
+    {"src": "/sitemap.xml", "dest": "/sitemap.xml"},
+    {"src": "/robots.txt", "dest": "/robots.txt"},
+    {"src": "/(.*)", "dest": "/$1.html"}
+  ]
+}

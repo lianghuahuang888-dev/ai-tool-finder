@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://aitoolfinder.vercel.app/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://aitoolfinder.vercel.app/compare.html</loc><priority>0.8</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/blog.html</loc><priority>0.8</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/chatgpt.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/claude.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/gemini.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/midjourney.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/dalle.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/stable-diffusion.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/copilot.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/cursor.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/notion-ai.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/jasper.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/runway.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/elevenlabs.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/perplexity.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/suno.html</loc><priority>0.7</priority></url>
+  <url><loc>https://aitoolfinder.vercel.app/tools/devin.html</loc><priority>0.7</priority></url>
+</urlset>

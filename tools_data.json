@@ -1,0 +1,287 @@
+[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "category": "Chatbot",
+    "pricing": "Free / $20/mo",
+    "rating": 4.8,
+    "desc": "OpenAI's flagship conversational AI, supports text, code, image analysis, and web browsing. Powers millions of users worldwide.",
+    "url": "https://chat.openai.com",
+    "pros": [
+      "Best-in-class reasoning",
+      "Multimodal (vision+text)",
+      "Plugin ecosystem"
+    ],
+    "cons": [
+      "Can be slow at peak",
+      "Paid plan needed for GPT-4",
+      "Occasional hallucinations"
+    ]
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "category": "Chatbot",
+    "pricing": "Free / $20/mo",
+    "rating": 4.7,
+    "desc": "Anthropic's AI assistant known for long context windows (200K tokens) and nuanced, safe responses.",
+    "url": "https://claude.ai",
+    "pros": [
+      "200K context window",
+      "Excellent writing quality",
+      "Strong safety guardrails"
+    ],
+    "cons": [
+      "No image generation",
+      "Limited plugin support",
+      "Can be overly cautious"
+    ]
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "category": "Chatbot",
+    "pricing": "Free / $19.99/mo",
+    "rating": 4.5,
+    "desc": "Google's multimodal AI built into Google ecosystem. Native integration with Gmail, Docs, and Search.",
+    "url": "https://gemini.google.com",
+    "pros": [
+      "Google ecosystem integration",
+      "Strong multimodal",
+      "Free tier generous"
+    ],
+    "cons": [
+      "Inconsistent quality",
+      "Privacy concerns",
+      "Less customizable"
+    ]
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "category": "Image Generation",
+    "pricing": "$10-60/mo",
+    "rating": 4.6,
+    "desc": "Industry-leading AI image generator accessed via Discord. Known for artistic quality and aesthetic control.",
+    "url": "https://midjourney.com",
+    "pros": [
+      "Top-tier image quality",
+      "Style reference features",
+      "Active community"
+    ],
+    "cons": [
+      "Discord-only interface",
+      "No free tier",
+      "Steep learning curve"
+    ]
+  },
+  {
+    "id": "dalle",
+    "name": "DALL-E 3",
+    "category": "Image Generation",
+    "pricing": "Included in ChatGPT Plus",
+    "rating": 4.3,
+    "desc": "OpenAI's text-to-image model with strong prompt adherence and text rendering capabilities.",
+    "url": "https://openai.com/dall-e-3",
+    "pros": [
+      "Excellent prompt following",
+      "Text in images works well",
+      "Integrated in ChatGPT"
+    ],
+    "cons": [
+      "Less artistic control",
+      "Requires ChatGPT Plus",
+      "Limited resolution options"
+    ]
+  },
+  {
+    "id": "stable-diffusion",
+    "name": "Stable Diffusion XL",
+    "category": "Image Generation",
+    "pricing": "Free / Open Source",
+    "rating": 4.4,
+    "desc": "Open-source image generation model. Self-hostable, highly customizable with LoRAs and ControlNet.",
+    "url": "https://stability.ai",
+    "pros": [
+      "100% free and open-source",
+      "Fully customizable",
+      "Huge community models"
+    ],
+    "cons": [
+      "Requires technical setup",
+      "GPU intensive",
+      "Quality depends on user skill"
+    ]
+  },
+  {
+    "id": "copilot",
+    "name": "GitHub Copilot",
+    "category": "Code Assistant",
+    "pricing": "$10/mo / Free for students",
+    "rating": 4.7,
+    "desc": "AI pair programmer that suggests code completions in real-time across multiple IDEs.",
+    "url": "https://github.com/features/copilot",
+    "pros": [
+      "Deep IDE integration",
+      "Context-aware suggestions",
+      "Multi-language support"
+    ],
+    "cons": [
+      "Monthly subscription",
+      "Can suggest insecure code",
+      "Limited to code tasks"
+    ]
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "Code Assistant",
+    "pricing": "Free / $20/mo",
+    "rating": 4.8,
+    "desc": "AI-first code editor built on VS Code. Inline editing, multi-file refactoring, and chat-based coding.",
+    "url": "https://cursor.sh",
+    "pros": [
+      "AI-native editor",
+      "Whole-project context",
+      "Fast iteration speed"
+    ],
+    "cons": [
+      "Newer ecosystem",
+      "Some VS Code extensions broken",
+      "Vendor lock-in risk"
+    ]
+  },
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "category": "Productivity",
+    "pricing": "$10/mo add-on",
+    "rating": 4.3,
+    "desc": "AI writing and organization features built directly into Notion workspace. Summarize, translate, draft.",
+    "url": "https://notion.so",
+    "pros": [
+      "Seamless Notion integration",
+      "Good for team collaboration",
+      "Multiple content types"
+    ],
+    "cons": [
+      "Extra cost on top of Notion",
+      "Limited outside Notion",
+      "Generic outputs"
+    ]
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper",
+    "category": "Content Writing",
+    "pricing": "$49-125/mo",
+    "rating": 4.2,
+    "desc": "Enterprise-focused AI content platform for marketing teams. Templates, brand voice, campaign features.",
+    "url": "https://jasper.ai",
+    "pros": [
+      "Marketing-specific features",
+      "Brand voice memory",
+      "Campaign management"
+    ],
+    "cons": [
+      "Expensive",
+      "Overkill for individuals",
+      "Outputs need editing"
+    ]
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "category": "Video Generation",
+    "pricing": "Free / $15/mo",
+    "rating": 4.4,
+    "desc": "AI video generation and editing platform. Gen-3 model for text-to-video, plus professional editing tools.",
+    "url": "https://runwayml.com",
+    "pros": [
+      "Professional video tools",
+      "Gen-3 quality improving",
+      "Browser-based"
+    ],
+    "cons": [
+      "Video AI still early stage",
+      "Render times can be long",
+      "Competitive space"
+    ]
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "Voice/Audio",
+    "pricing": "Free / $5-99/mo",
+    "rating": 4.6,
+    "desc": "State-of-the-art AI text-to-speech and voice cloning. Natural-sounding voices in 29 languages.",
+    "url": "https://elevenlabs.io",
+    "pros": [
+      "Most natural TTS available",
+      "Voice cloning quality",
+      "Multilingual support"
+    ],
+    "cons": [
+      "Ethical concerns on cloning",
+      "API costs add up",
+      "Limited free tier"
+    ]
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity AI",
+    "category": "Search/Research",
+    "pricing": "Free / $20/mo",
+    "rating": 4.7,
+    "desc": "AI-powered search engine that provides cited answers. Combines search with LLM reasoning.",
+    "url": "https://perplexity.ai",
+    "pros": [
+      "Cited sources always",
+      "Real-time web access",
+      "Concise answers"
+    ],
+    "cons": [
+      "Limited creative tasks",
+      "Pro search costs extra",
+      "Smaller context window"
+    ]
+  },
+  {
+    "id": "suno",
+    "name": "Suno",
+    "category": "Music/Audio",
+    "pricing": "Free / $10/mo",
+    "rating": 4.5,
+    "desc": "AI music generator. Create full songs with lyrics, melody, and instrumentation from text prompts.",
+    "url": "https://suno.ai",
+    "pros": [
+      "Full song generation",
+      "Multiple genres",
+      "Lyrics included"
+    ],
+    "cons": [
+      "Copyright gray area",
+      "Quality varies wildly",
+      "Limited editing control"
+    ]
+  },
+  {
+    "id": "devin",
+    "name": "Devin",
+    "category": "Code Assistant",
+    "pricing": "$500/mo",
+    "rating": 4.3,
+    "desc": "AI software engineer that plans and executes complex coding tasks autonomously in a sandbox environment.",
+    "url": "https://cognition.ai",
+    "pros": [
+      "Autonomous task execution",
+      "Full dev environment",
+      "Handles complex tasks"
+    ],
+    "cons": [
+      "Very expensive",
+      "Still early stage",
+      "Overkill for simple tasks"
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aitoolfinder.vercel.app/sitemap.xml
