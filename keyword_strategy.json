@@ -1,0 +1,136 @@
+{
+  "generated": "2026-04-30",
+  "source": "Ahrefs/Semrush estimates + temp/ research reports",
+  "keywords": {
+    "chatgpt": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "brand-specific",
+      "rationale": "Brand product page, competes with official site"
+    },
+    "claude": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "brand-specific",
+      "rationale": "Brand product page, competes with official site"
+    },
+    "copilot": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "brand-specific",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "cursor": {
+      "search_volume_est": 800,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "dalle": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "devin": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "elevenlabs": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "gemini": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "brand-specific",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "jasper": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "midjourney": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "notion-ai": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "perplexity": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "runway": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "stable-diffusion": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    },
+    "suno": {
+      "search_volume_est": 600,
+      "competition": "High",
+      "category": "tool-page",
+      "rationale": "Niche tool page, moderate competition"
+    }
+  },
+  "content_clusters": {
+    "best-ai-coding-tools": {
+      "type": "listicle",
+      "est_volume": 12000,
+      "competition": "Very High",
+      "note": "Needs comparison table + real benchmarks"
+    },
+    "ai-image-generator-free": {
+      "type": "free-alt",
+      "est_volume": 22000,
+      "competition": "High",
+      "note": "Free tier comparison angle"
+    },
+    "ai-music-generator": {
+      "type": "category",
+      "est_volume": 15000,
+      "competition": "High"
+    },
+    "chatgpt-vs-claude": {
+      "type": "comparison",
+      "est_volume": 18000,
+      "competition": "High"
+    },
+    "best-ai-for-writing": {
+      "type": "category",
+      "est_volume": 9900,
+      "competition": "Medium"
+    }
+  },
+  "long_tail_opportunities": [
+    "ai-tool-finder-free-no-signup",
+    "claude-vs-chatgpt-coding-2026",
+    "midjourney-alternatives-free",
+    "best-ai-tools-under-20-dollars"
+  ],
+  "evaluation_criteria": {
+    "success": "Organic CTR > 3% and avg position < 15",
+    "adjust": "Drop KWs with > 6 months avg position > 30",
+    "tool": "GSC Search Analytics API"
+  }
+}
