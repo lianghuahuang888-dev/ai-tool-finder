@@ -1,0 +1,2314 @@
+{
+  "robots_txt": {
+    "score": 10,
+    "quality_score": 15,
+    "bots_found": 15,
+    "bots_total": 15
+  },
+  "llms_txt": {
+    "score": 10,
+    "has_h1": true,
+    "has_blockquote": true,
+    "has_sections": true,
+    "has_links": true,
+    "word_count": 189,
+    "depth_score": 0
+  },
+  "pages": [
+    {
+      "file": "about.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/about.html",
+      "meta": {
+        "title": "About Us - AI Tool Finder",
+        "description": "About AI Tool Finder — your trusted resource for AI tool reviews, comparisons, and guides. Honest, in-depth analysis to help you choose the right AI tools.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/about.html",
+        "og_title": false
+      },
+      "schema_types": [
+        "AboutPage"
+      ],
+      "content": {
+        "words": 236,
+        "h1": 1,
+        "h2": 4,
+        "h3": 0,
+        "lists": 1,
+        "tables": 0,
+        "external_links": 2,
+        "has_stats": false
+      },
+      "score": 16,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "about.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is About?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "About is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does About pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest About pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is About worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "about.html",
+          "detail": "Only 236 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "about.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "affiliate-disclosure.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/affiliate-disclosure.html",
+      "meta": {
+        "title": "Affiliate Disclosure | AI Tool Finder",
+        "description": "How AI Tool Finder makes money. Our affiliate disclosure explains how we earn commissions while maintaining honest, unbiased reviews.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/affiliate-disclosure.html",
+        "og_title": false
+      },
+      "schema_types": [],
+      "content": {
+        "words": 359,
+        "h1": 1,
+        "h2": 5,
+        "h3": 0,
+        "lists": 2,
+        "tables": 0,
+        "external_links": 0,
+        "has_stats": false
+      },
+      "score": 21,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "affiliate-disclosure.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Affiliate Disclosure?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Affiliate Disclosure is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Affiliate Disclosure pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Affiliate Disclosure pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Affiliate Disclosure worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "affiliate-disclosure.html",
+          "detail": "Only 359 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "affiliate-disclosure.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog.html",
+      "meta": {
+        "title": "AI Blog - Latest AI Tools Reviews & Guides 2026 | AI Tool Finder",
+        "description": "Expert reviews, comparisons, and guides on the best AI tools in 2026. From ChatGPT alternatives to AI coding assistants, we cover everything.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog.html",
+        "og_title": false
+      },
+      "schema_types": [],
+      "content": {
+        "words": 360,
+        "h1": 1,
+        "h2": 0,
+        "h3": 0,
+        "lists": 0,
+        "tables": 0,
+        "external_links": 2,
+        "has_stats": true
+      },
+      "score": 20,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Blog?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Blog is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Blog pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Blog pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Blog worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog.html",
+          "detail": "Only 360 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "compare.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/compare.html",
+      "meta": {
+        "title": "Compare AI Tools 2026: Side-by-Side Pricing, Features & Ratings | AI Tool Finder",
+        "description": "Compare all 15 AI tools side by side. Pricing, features, ratings, pros & cons for ChatGPT, Claude, Midjourney, Copilot, and more. Find your perfect AI tool in 2 minutes.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/compare.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "WebPage",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 1023,
+        "h1": 1,
+        "h2": 10,
+        "h3": 15,
+        "lists": 0,
+        "tables": 1,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 31,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "few_citations",
+          "file": "compare.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/",
+      "meta": {
+        "title": "AI Tool Finder - Find the Best AI Tools in 2026 | Expert Reviews & Comparisons",
+        "description": "Discover and compare the best AI tools of 2026. Expert reviews, pricing comparisons, and recommendations for ChatGPT, Claude, Midjourney, and 100+ AI tools.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/",
+        "og_title": true
+      },
+      "schema_types": [
+        "unknown"
+      ],
+      "content": {
+        "words": 704,
+        "h1": 1,
+        "h2": 5,
+        "h3": 3,
+        "lists": 0,
+        "tables": 0,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 25,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "index.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Index?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Index is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Index pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Index pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Index worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "index.html",
+          "detail": "Only 704 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "index.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "privacy-policy.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html",
+      "meta": {
+        "title": "Privacy Policy - AI Tool Finder",
+        "description": "Privacy Policy for AI Tool Finder. Learn how we collect, use, and protect your data.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html",
+        "og_title": false
+      },
+      "schema_types": [
+        "WebPage"
+      ],
+      "content": {
+        "words": 262,
+        "h1": 1,
+        "h2": 8,
+        "h3": 0,
+        "lists": 1,
+        "tables": 0,
+        "external_links": 2,
+        "has_stats": true
+      },
+      "score": 20,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "privacy-policy.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Privacy Policy?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Privacy Policy is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Privacy Policy pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Privacy Policy pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Privacy Policy worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "privacy-policy.html",
+          "detail": "Only 262 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "privacy-policy.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "tools/chatgpt.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/chatgpt.html",
+      "meta": {
+        "title": "ChatGPT Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth ChatGPT review for 2026. Expert-tested features, pricing breakdown (Free / $20/mo), pros & cons, and the best ChatGPT alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/chatgpt.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 928,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/claude.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/claude.html",
+      "meta": {
+        "title": "Claude Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Claude review for 2026. Expert-tested features, pricing breakdown (Free / $20/mo), pros & cons, and the best Claude alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/claude.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 860,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/copilot.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/copilot.html",
+      "meta": {
+        "title": "GitHub Copilot Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth GitHub Copilot review for 2026. Expert-tested features, pricing breakdown ($10/mo / Free for students), pros & cons, and the best GitHub Copilot alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/copilot.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 862,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/cursor.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/cursor.html",
+      "meta": {
+        "title": "Cursor Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Cursor review for 2026. Expert-tested features, pricing breakdown (Free / $20/mo), pros & cons, and the best Cursor alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/cursor.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 911,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/dalle.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/dalle.html",
+      "meta": {
+        "title": "DALL-E 3 Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth DALL-E 3 review for 2026. Expert-tested features, pricing breakdown (Included in ChatGPT Plus), pros & cons, and the best DALL-E 3 alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/dalle.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 884,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/devin.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/devin.html",
+      "meta": {
+        "title": "Devin Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Devin review for 2026. Expert-tested features, pricing breakdown ($500/mo), pros & cons, and the best Devin alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/devin.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 902,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/elevenlabs.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/elevenlabs.html",
+      "meta": {
+        "title": "ElevenLabs Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth ElevenLabs review for 2026. Expert-tested features, pricing breakdown (Free / $5-99/mo), pros & cons, and the best ElevenLabs alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/elevenlabs.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 830,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/gemini.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/gemini.html",
+      "meta": {
+        "title": "Gemini Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Gemini review for 2026. Expert-tested features, pricing breakdown (Free / $19.99/mo), pros & cons, and the best Gemini alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/gemini.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 850,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/jasper.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/jasper.html",
+      "meta": {
+        "title": "Jasper Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Jasper review for 2026. Expert-tested features, pricing breakdown ($49-125/mo), pros & cons, and the best Jasper alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/jasper.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 822,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/midjourney.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/midjourney.html",
+      "meta": {
+        "title": "Midjourney Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Midjourney review for 2026. Expert-tested features, pricing breakdown ($10-60/mo), pros & cons, and the best Midjourney alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/midjourney.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 833,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/notion-ai.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/notion-ai.html",
+      "meta": {
+        "title": "Notion AI Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Notion AI review for 2026. Expert-tested features, pricing breakdown ($10/mo add-on), pros & cons, and the best Notion AI alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/notion-ai.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 853,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/perplexity.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/perplexity.html",
+      "meta": {
+        "title": "Perplexity AI Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Perplexity AI review for 2026. Expert-tested features, pricing breakdown (Free / $20/mo), pros & cons, and the best Perplexity AI alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/perplexity.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 868,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/runway.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/runway.html",
+      "meta": {
+        "title": "Runway Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Runway review for 2026. Expert-tested features, pricing breakdown (Free / $15/mo), pros & cons, and the best Runway alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/runway.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 841,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/stable-diffusion.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/stable-diffusion.html",
+      "meta": {
+        "title": "Stable Diffusion XL Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Stable Diffusion XL review for 2026. Expert-tested features, pricing breakdown (Free / Open Source), pros & cons, and the best Stable Diffusion XL alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/stable-diffusion.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 874,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "tools/suno.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/suno.html",
+      "meta": {
+        "title": "Suno Review 2026: Pricing, Features & Hands-On Verdict | AI Tool Finder",
+        "description": "In-depth Suno review for 2026. Expert-tested features, pricing breakdown (Free / $10/mo), pros & cons, and the best Suno alternatives for every use case.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/suno.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "SoftwareApplication",
+        "BreadcrumbList",
+        "FAQPage"
+      ],
+      "content": {
+        "words": 835,
+        "h1": 1,
+        "h2": 7,
+        "h3": 6,
+        "lists": 3,
+        "tables": 0,
+        "external_links": 3,
+        "has_stats": true
+      },
+      "score": 35,
+      "max_score": 100,
+      "fixes": []
+    },
+    {
+      "file": "blog/ai-coding-tools-comparison.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-coding-tools-comparison.html",
+      "meta": {
+        "title": "AI Coding Tools Compared: Cursor vs GitHub Copilot vs Devin in 2026 | AI Tool Finder Blog",
+        "description": "Which AI coding tool makes you a 10x developer? We compare Cursor, GitHub Copilot, and Devin on real coding tasks. Pricing, features, and verdict.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-coding-tools-comparison.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "content": {
+        "words": 364,
+        "h1": 1,
+        "h2": 4,
+        "h3": 0,
+        "lists": 0,
+        "tables": 0,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 25,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/ai-coding-tools-comparison.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Ai Coding Tools Comparison?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Ai Coding Tools Comparison is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Ai Coding Tools Comparison pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Ai Coding Tools Comparison pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Ai Coding Tools Comparison worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/ai-coding-tools-comparison.html",
+          "detail": "Only 364 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/ai-coding-tools-comparison.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/ai-content-creation-workflow.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-content-creation-workflow.html",
+      "meta": {
+        "title": "How to Use AI for Content Creation: The Ultimate 2026 Workflow",
+        "description": "The ultimate AI content creation workflow for 2026. Use ChatGPT, Claude, Midjourney, Runway, and more to 10x your output.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-content-creation-workflow.html",
+        "og_title": false
+      },
+      "schema_types": [
+        "Article"
+      ],
+      "content": {
+        "words": 530,
+        "h1": 1,
+        "h2": 8,
+        "h3": 0,
+        "lists": 0,
+        "tables": 0,
+        "external_links": 2,
+        "has_stats": true
+      },
+      "score": 23,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/ai-content-creation-workflow.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Ai Content Creation Workflow?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Ai Content Creation Workflow is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Ai Content Creation Workflow pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Ai Content Creation Workflow pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Ai Content Creation Workflow worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/ai-content-creation-workflow.html",
+          "detail": "Only 530 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/ai-content-creation-workflow.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/ai-image-generator-guide.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-image-generator-guide.html",
+      "meta": {
+        "title": "How to Choose the Right AI Image Generator: Midjourney vs DALL·E vs Stable Diffusion | AI Tool Finder Blog",
+        "description": "Complete guide to choosing between Midjourney, DALL·E 3, and Stable Diffusion in 2026. Compare quality, pricing, ease of use, and best use cases.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-image-generator-guide.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "content": {
+        "words": 453,
+        "h1": 1,
+        "h2": 5,
+        "h3": 0,
+        "lists": 0,
+        "tables": 1,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/ai-image-generator-guide.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Ai Image Generator Guide?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Ai Image Generator Guide is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Ai Image Generator Guide pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Ai Image Generator Guide pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Ai Image Generator Guide worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/ai-image-generator-guide.html",
+          "detail": "Only 453 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/ai-image-generator-guide.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/ai-tools-for-students.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-for-students.html",
+      "meta": {
+        "title": "Best AI Tools for Students in 2026: Study Smarter, Not Harder",
+        "description": "Best AI tools for students — study smarter with ChatGPT, Perplexity, Notion AI, Claude, and GitHub Copilot. Comparison and tips.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-for-students.html",
+        "og_title": false
+      },
+      "schema_types": [
+        "Article"
+      ],
+      "content": {
+        "words": 648,
+        "h1": 1,
+        "h2": 5,
+        "h3": 5,
+        "lists": 1,
+        "tables": 1,
+        "external_links": 2,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/ai-tools-for-students.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Ai Tools For Students?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Ai Tools For Students is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Ai Tools For Students pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Ai Tools For Students pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Ai Tools For Students worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/ai-tools-for-students.html",
+          "detail": "Only 648 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/ai-tools-for-students.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/ai-tools-small-business.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-small-business.html",
+      "meta": {
+        "title": "AI Tools for Small Business: The Complete 2026 Stack | AI Tool Finder Blog",
+        "description": "Build your entire small business tech stack with AI tools. Marketing, content, customer service, and operations — all covered with practical recommendations.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-small-business.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "content": {
+        "words": 418,
+        "h1": 1,
+        "h2": 6,
+        "h3": 6,
+        "lists": 0,
+        "tables": 1,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/ai-tools-small-business.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Ai Tools Small Business?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Ai Tools Small Business is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Ai Tools Small Business pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Ai Tools Small Business pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Ai Tools Small Business worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/ai-tools-small-business.html",
+          "detail": "Only 418 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/ai-tools-small-business.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/ai-video-tools-comparison.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-video-tools-comparison.html",
+      "meta": {
+        "title": "AI Video Generation 2026: Runway vs Pika vs Kaiber — Which Is Best?",
+        "description": "Runway vs Pika vs Kaiber: which AI video generator is best in 2026? Complete comparison of features, pricing, and output quality.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-video-tools-comparison.html",
+        "og_title": false
+      },
+      "schema_types": [
+        "Article"
+      ],
+      "content": {
+        "words": 443,
+        "h1": 1,
+        "h2": 8,
+        "h3": 0,
+        "lists": 0,
+        "tables": 1,
+        "external_links": 2,
+        "has_stats": true
+      },
+      "score": 25,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/ai-video-tools-comparison.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Ai Video Tools Comparison?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Ai Video Tools Comparison is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Ai Video Tools Comparison pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Ai Video Tools Comparison pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Ai Video Tools Comparison worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/ai-video-tools-comparison.html",
+          "detail": "Only 443 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/ai-video-tools-comparison.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/best-ai-coding-tools-2026.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-coding-tools-2026.html",
+      "meta": {
+        "title": "Best AI Coding Tools 2026: Cursor vs GitHub Copilot vs Devin",
+        "description": "GitHub Copilot vs Cursor vs Devin: honest comparison of AI coding tools in 2026. Pricing, features, and which one is best for your workflow.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-coding-tools-2026.html",
+        "og_title": false
+      },
+      "schema_types": [
+        "Article"
+      ],
+      "content": {
+        "words": 482,
+        "h1": 1,
+        "h2": 6,
+        "h3": 0,
+        "lists": 3,
+        "tables": 1,
+        "external_links": 2,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/best-ai-coding-tools-2026.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Best Ai Coding Tools 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Best Ai Coding Tools 2026 is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Best Ai Coding Tools 2026 pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Best Ai Coding Tools 2026 pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Best Ai Coding Tools 2026 worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/best-ai-coding-tools-2026.html",
+          "detail": "Only 482 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/best-ai-coding-tools-2026.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/best-ai-tools-2026.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-tools-2026.html",
+      "meta": {
+        "title": "Best AI Tools in 2026: The Ultimate Guide | AI Tool Finder Blog",
+        "description": "Comprehensive guide to the 15 best AI tools in 2026. We tested chatbots, image generators, coding assistants, and more to help you find the perfect AI stack.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-tools-2026.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "content": {
+        "words": 910,
+        "h1": 1,
+        "h2": 5,
+        "h3": 10,
+        "lists": 1,
+        "tables": 0,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/best-ai-tools-2026.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Best Ai Tools 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Best Ai Tools 2026 is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Best Ai Tools 2026 pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Best Ai Tools 2026 pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Best Ai Tools 2026 worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/best-ai-tools-2026.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/chatgpt-plus-worth-it-2026.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-plus-worth-it-2026.html",
+      "meta": {
+        "title": "Is ChatGPT Plus Worth $20/month in 2026? An Honest Review",
+        "description": "Is ChatGPT Plus worth $20/month in 2026? Honest review covering GPT-4, DALL-E 3, web browsing, custom GPTs, and alternatives.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-plus-worth-it-2026.html",
+        "og_title": false
+      },
+      "schema_types": [
+        "Article"
+      ],
+      "content": {
+        "words": 492,
+        "h1": 1,
+        "h2": 5,
+        "h3": 2,
+        "lists": 2,
+        "tables": 1,
+        "external_links": 2,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/chatgpt-plus-worth-it-2026.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Chatgpt Plus Worth It 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Chatgpt Plus Worth It 2026 is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Chatgpt Plus Worth It 2026 pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Chatgpt Plus Worth It 2026 pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Chatgpt Plus Worth It 2026 worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/chatgpt-plus-worth-it-2026.html",
+          "detail": "Only 492 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/chatgpt-plus-worth-it-2026.html",
+          "detail": "Only 2 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/chatgpt-vs-claude-vs-gemini.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-vs-claude-vs-gemini.html",
+      "meta": {
+        "title": "ChatGPT vs Claude vs Gemini: Which AI Chatbot Wins in 2026? | AI Tool Finder Blog",
+        "description": "Head-to-head comparison of ChatGPT, Claude, and Gemini in 2026. We tested reasoning, creativity, coding, and real-world usefulness across 10 tasks.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-vs-claude-vs-gemini.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "content": {
+        "words": 400,
+        "h1": 1,
+        "h2": 5,
+        "h3": 0,
+        "lists": 0,
+        "tables": 1,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/chatgpt-vs-claude-vs-gemini.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Chatgpt Vs Claude Vs Gemini?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Chatgpt Vs Claude Vs Gemini is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Chatgpt Vs Claude Vs Gemini pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Chatgpt Vs Claude Vs Gemini pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Chatgpt Vs Claude Vs Gemini worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/chatgpt-vs-claude-vs-gemini.html",
+          "detail": "Only 400 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/chatgpt-vs-claude-vs-gemini.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    },
+    {
+      "file": "blog/free-vs-paid-ai-tools.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/free-vs-paid-ai-tools.html",
+      "meta": {
+        "title": "Free vs Paid AI Tools in 2026: What's Actually Worth Your Money? | AI Tool Finder Blog",
+        "description": "Honest analysis of free vs paid AI tools in 2026. When should you upgrade? Which free tools are genuinely good enough? We tested them all.",
+        "canonical": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/free-vs-paid-ai-tools.html",
+        "og_title": true
+      },
+      "schema_types": [
+        "Article",
+        "BreadcrumbList"
+      ],
+      "content": {
+        "words": 412,
+        "h1": 1,
+        "h2": 5,
+        "h3": 0,
+        "lists": 0,
+        "tables": 1,
+        "external_links": 0,
+        "has_stats": true
+      },
+      "score": 27,
+      "max_score": 100,
+      "fixes": [
+        {
+          "type": "add_faq_schema",
+          "file": "blog/free-vs-paid-ai-tools.html",
+          "content": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "What is Free Vs Paid Ai Tools?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Free Vs Paid Ai Tools is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How does Free Vs Paid Ai Tools pricing work?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Check our review page for the latest Free Vs Paid Ai Tools pricing breakdown across free and paid tiers."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Is Free Vs Paid Ai Tools worth it in 2026?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "thin_content",
+          "file": "blog/free-vs-paid-ai-tools.html",
+          "detail": "Only 412 words. Minimum 800 recommended."
+        },
+        {
+          "type": "few_citations",
+          "file": "blog/free-vs-paid-ai-tools.html",
+          "detail": "Only 0 external links."
+        }
+      ]
+    }
+  ],
+  "overall_score": 77,
+  "fixes": [
+    {
+      "type": "add_faq_schema",
+      "file": "about.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is About?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "About is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does About pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest About pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is About worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "about.html",
+      "detail": "Only 236 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "about.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "affiliate-disclosure.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Affiliate Disclosure?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Affiliate Disclosure is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Affiliate Disclosure pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Affiliate Disclosure pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Affiliate Disclosure worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "affiliate-disclosure.html",
+      "detail": "Only 359 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "affiliate-disclosure.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Blog?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Blog is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Blog pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Blog pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Blog worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog.html",
+      "detail": "Only 360 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "few_citations",
+      "file": "compare.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "index.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Index?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Index is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Index pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Index pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Index worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "index.html",
+      "detail": "Only 704 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "index.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "privacy-policy.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Privacy Policy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Privacy Policy is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Privacy Policy pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Privacy Policy pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Privacy Policy worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "privacy-policy.html",
+      "detail": "Only 262 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "privacy-policy.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/ai-coding-tools-comparison.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Ai Coding Tools Comparison?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ai Coding Tools Comparison is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Ai Coding Tools Comparison pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Ai Coding Tools Comparison pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Ai Coding Tools Comparison worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/ai-coding-tools-comparison.html",
+      "detail": "Only 364 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/ai-coding-tools-comparison.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/ai-content-creation-workflow.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Ai Content Creation Workflow?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ai Content Creation Workflow is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Ai Content Creation Workflow pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Ai Content Creation Workflow pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Ai Content Creation Workflow worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/ai-content-creation-workflow.html",
+      "detail": "Only 530 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/ai-content-creation-workflow.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/ai-image-generator-guide.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Ai Image Generator Guide?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ai Image Generator Guide is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Ai Image Generator Guide pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Ai Image Generator Guide pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Ai Image Generator Guide worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/ai-image-generator-guide.html",
+      "detail": "Only 453 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/ai-image-generator-guide.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/ai-tools-for-students.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Ai Tools For Students?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ai Tools For Students is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Ai Tools For Students pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Ai Tools For Students pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Ai Tools For Students worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/ai-tools-for-students.html",
+      "detail": "Only 648 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/ai-tools-for-students.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/ai-tools-small-business.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Ai Tools Small Business?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ai Tools Small Business is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Ai Tools Small Business pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Ai Tools Small Business pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Ai Tools Small Business worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/ai-tools-small-business.html",
+      "detail": "Only 418 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/ai-tools-small-business.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/ai-video-tools-comparison.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Ai Video Tools Comparison?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ai Video Tools Comparison is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Ai Video Tools Comparison pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Ai Video Tools Comparison pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Ai Video Tools Comparison worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/ai-video-tools-comparison.html",
+      "detail": "Only 443 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/ai-video-tools-comparison.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/best-ai-coding-tools-2026.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Best Ai Coding Tools 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Best Ai Coding Tools 2026 is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Best Ai Coding Tools 2026 pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Best Ai Coding Tools 2026 pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Best Ai Coding Tools 2026 worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/best-ai-coding-tools-2026.html",
+      "detail": "Only 482 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/best-ai-coding-tools-2026.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/best-ai-tools-2026.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Best Ai Tools 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Best Ai Tools 2026 is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Best Ai Tools 2026 pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Best Ai Tools 2026 pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Best Ai Tools 2026 worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/best-ai-tools-2026.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/chatgpt-plus-worth-it-2026.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Chatgpt Plus Worth It 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Chatgpt Plus Worth It 2026 is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Chatgpt Plus Worth It 2026 pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Chatgpt Plus Worth It 2026 pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Chatgpt Plus Worth It 2026 worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/chatgpt-plus-worth-it-2026.html",
+      "detail": "Only 492 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/chatgpt-plus-worth-it-2026.html",
+      "detail": "Only 2 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/chatgpt-vs-claude-vs-gemini.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Chatgpt Vs Claude Vs Gemini?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Chatgpt Vs Claude Vs Gemini is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Chatgpt Vs Claude Vs Gemini pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Chatgpt Vs Claude Vs Gemini pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Chatgpt Vs Claude Vs Gemini worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/chatgpt-vs-claude-vs-gemini.html",
+      "detail": "Only 400 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/chatgpt-vs-claude-vs-gemini.html",
+      "detail": "Only 0 external links."
+    },
+    {
+      "type": "add_faq_schema",
+      "file": "blog/free-vs-paid-ai-tools.html",
+      "content": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is Free Vs Paid Ai Tools?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Free Vs Paid Ai Tools is an AI tool reviewed on AI Tool Finder. See our detailed review for features, pricing, and comparisons."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does Free Vs Paid Ai Tools pricing work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Check our review page for the latest Free Vs Paid Ai Tools pricing breakdown across free and paid tiers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Free Vs Paid Ai Tools worth it in 2026?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Read our 2026 review for hands-on testing results, pros/cons, and comparison with alternatives."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "thin_content",
+      "file": "blog/free-vs-paid-ai-tools.html",
+      "detail": "Only 412 words. Minimum 800 recommended."
+    },
+    {
+      "type": "few_citations",
+      "file": "blog/free-vs-paid-ai-tools.html",
+      "detail": "Only 0 external links."
+    }
+  ],
+  "max_possible": 150
+}
