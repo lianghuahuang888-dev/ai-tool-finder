@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AI Tool Finder",
+  "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/",
+  "email": "ai.tool.finder@proton.me",
+  "description": "Find and compare the best AI tools. Rankings, comparisons, and guides for AI-powered software.",
+  "sameAs": [
+    "https://github.com/lianghuahuang888-dev",
+    "https://lianghuahuang888-dev.github.io/ai-tool-finder/"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "ai.tool.finder@proton.me",
+    "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/contact.html"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "US"
+  },
+  "knowsAbout": [
+    "AI Tools",
+    "Artificial Intelligence",
+    "Software Comparison",
+    "Machine Learning",
+    "AI Rankings"
+  ]
+}

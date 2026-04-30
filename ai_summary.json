@@ -1,0 +1,20 @@
+{
+  "name": "AI Tool Finder",
+  "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/",
+  "description": "Find and compare the best AI tools. Rankings, comparisons, and guides for AI-powered software.",
+  "type": "WebApplication",
+  "about": "https://lianghuahuang888-dev.github.io/ai-tool-finder/about.html",
+  "contact": "https://lianghuahuang888-dev.github.io/ai-tool-finder/contact.html",
+  "llms": "https://lianghuahuang888-dev.github.io/ai-tool-finder/llms.txt",
+  "sitemap": "https://lianghuahuang888-dev.github.io/ai-tool-finder/sitemap.xml",
+  "lastUpdated": "2026-04-30",
+  "category": "AI Tools Directory",
+  "languages": [
+    "en"
+  ],
+  "provider": {
+    "@type": "Organization",
+    "name": "AI Tool Finder",
+    "email": "ai.tool.finder@proton.me"
+  }
+}
