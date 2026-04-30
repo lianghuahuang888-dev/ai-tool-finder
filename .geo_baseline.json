@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T13:04:56.954966",
+  "timestamp": "2026-04-30T13:12:35.835186",
   "page_count": 32,
   "total_score": 1052,
   "avg_score": 32.9,
@@ -67,9 +67,9 @@
     {
       "file": "index.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/",
-      "hash": "a0283666539be18e70b45d163505b06d",
+      "hash": "c1a86e9f4860105d0f4f9499af7aca73",
       "score": 25,
-      "words": 704,
+      "words": 837,
       "ext_links": 0,
       "schema_types": [
         "unknown"
