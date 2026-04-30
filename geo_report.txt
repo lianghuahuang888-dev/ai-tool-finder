@@ -1,0 +1,11 @@
+GEO Monitor Report ！ 2026-04-30 12:58
+Site: https://lianghuahuang888-dev.github.io/ai-tool-finder
+Pages: 32 | Avg Score: 32.9/90
+Status: FIRST_RUN
+
+BOTTOM 5 pages by score:
+  Score:20 Words: 236 FAQ:Y ！ about.html
+  Score:24 Words: 360 FAQ:Y ！ blog.html
+  Score:24 Words: 262 FAQ:Y ！ privacy-policy.html
+  Score:25 Words: 359 FAQ:Y ！ affiliate-disclosure.html
+  Score:25 Words: 704 FAQ:N ！ index.html
