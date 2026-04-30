@@ -1,0 +1,17 @@
+{
+  "name": "lianghuahuang888-dev.github.io AI Discovery Service",
+  "version": "1.0.0",
+  "description": "MCP-compatible service endpoint for lianghuahuang888-dev.github.io. Provides AI tool search and comparison data.",
+  "endpoints": {
+    "search": "https://lianghuahuang888-dev.github.io/ai-tool-finder/ai/search",
+    "summary": "https://lianghuahuang888-dev.github.io/ai-tool-finder/ai/summary.json",
+    "faq": "https://lianghuahuang888-dev.github.io/ai-tool-finder/ai/summary.json#faq"
+  },
+  "capabilities": [
+    "tool_search",
+    "tool_comparison",
+    "faq",
+    "pricing"
+  ],
+  "contact": "https://lianghuahuang888-dev.github.io/ai-tool-finder/contact"
+}

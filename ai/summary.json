@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "title": "lianghuahuang888-dev.github.io — AI Tool Reviews & Comparisons",
+  "description": "Expert reviews, benchmarks, and comparisons of the best AI tools. Updated weekly.",
+  "keywords": [
+    "AI tools",
+    " AI reviews",
+    " AI comparison",
+    " best AI tools 2026"
+  ],
+  "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/",
+  "publisher": "lianghuahuang888-dev.github.io",
+  "language": "en",
+  "lastReviewed": "2026-04-30",
+  "faq": [
+    {
+      "question": "What is lianghuahuang888-dev.github.io?",
+      "answer": "lianghuahuang888-dev.github.io provides expert AI tool reviews, benchmarks, and comparisons for 2026. We test each tool across accuracy, speed, ease of use, cost, and privacy dimensions."
+    },
+    {
+      "question": "How often is content updated?",
+      "answer": "We update our content weekly. Pricing, features, and benchmarks reflect the latest releases from OpenAI, Anthropic, Google, and other major AI providers."
+    },
+    {
+      "question": "What AI tools do you cover?",
+      "answer": "We cover text generation (ChatGPT, Claude), image generation (Midjourney, DALL·E), code assistants (Copilot, Cursor), video generation, and enterprise AI platforms."
+    }
+  ]
+}
