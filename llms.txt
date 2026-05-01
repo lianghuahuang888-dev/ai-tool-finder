@@ -1,61 +1,139 @@
 # AI Tool Finder — llms.txt
 # URL: https://lianghuahuang888-dev.github.io/ai-tool-finder
+# Extended discovery file for AI crawlers: full content, structured data, sitemap
 
-> Expert reviews, pricing comparisons, and recommendations for AI tools in 2026. We help you find the best AI tools for coding, content creation, image generation, and more.
+> Expert reviews, pricing comparisons, and recommendations for AI tools in 2026. AI Tool Finder helps professionals, developers, and creators discover and compare the best artificial intelligence tools across multiple categories. We provide in-depth analysis covering pricing, features, use cases, and alternatives so you can make informed decisions about which AI tools to integrate into your workflow. Updated regularly with the latest releases and industry developments in the rapidly evolving AI landscape.
+
+## Site Overview & Mission
+
+AI Tool Finder is a comprehensive directory and review platform dedicated to helping users navigate the expanding universe of artificial intelligence tools. The platform covers AI tools across categories including coding assistants, content creation, image generation, video production, music generation, productivity, data analysis, and more. Each tool receives a detailed profile page with information about pricing, key features, target users, competitor comparisons, and integration capabilities.
+
+Our mission is to provide unbiased, well-researched information that enables users to find the right AI tools for their specific needs. We evaluate tools based on usability, value for money, feature depth, community support, and real-world effectiveness. The site is continuously updated to reflect new releases, pricing changes, and feature updates across the AI tools landscape.
 
 ## Core Pages
-- [Home](https://lianghuahuang888-dev.github.io/ai-tool-finder/)
-- [compare.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/compare.html)
-- [blog.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog.html)
-- [about.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/about.html)
-- [tools/chatgpt.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/chatgpt.html)
-- [tools/claude.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/claude.html)
-- [tools/gemini.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/gemini.html)
-- [tools/midjourney.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/midjourney.html)
-- [tools/dalle.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/dalle.html)
-- [tools/stable-diffusion.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/stable-diffusion.html)
-- [tools/copilot.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/copilot.html)
-- [tools/cursor.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/cursor.html)
-- [tools/notion-ai.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/notion-ai.html)
-- [tools/jasper.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/jasper.html)
-- [tools/runway.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/runway.html)
-- [tools/elevenlabs.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/elevenlabs.html)
-- [tools/perplexity.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/perplexity.html)
-- [tools/suno.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/suno.html)
-- [tools/devin.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/devin.html)
-- [blog/best-ai-tools-2026.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-tools-2026.html)
-- [blog/chatgpt-vs-claude-vs-gemini.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-vs-claude-vs-gemini.html)
-- [blog/ai-image-generator-guide.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-image-generator-guide.html)
-- [blog/ai-coding-tools-comparison.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-coding-tools-comparison.html)
-- [blog/free-vs-paid-ai-tools.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/free-vs-paid-ai-tools.html)
-- [blog/ai-tools-small-business.html](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-small-business.html)
 
-## Blog Articles
-- [Best Ai Tools 2026](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-tools-2026.html)
-- [Chatgpt Vs Claude Vs Gemini](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-vs-claude-vs-gemini.html)
-- [Ai Image Generator Guide](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-image-generator-guide.html)
-- [Ai Coding Tools Comparison](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-coding-tools-comparison.html)
-- [Free Vs Paid Ai Tools](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/free-vs-paid-ai-tools.html)
-- [Ai Tools Small Business](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-small-business.html)
+### Home Page
+- [AI Tool Finder Home](https://lianghuahuang888-dev.github.io/ai-tool-finder/)
+  The main landing page featuring a curated grid of top AI tools with category filters, search functionality, and featured reviews. The home page provides an overview of the most popular and highest-rated AI tools across all categories, with quick access to detailed review pages. Users can browse by category, search for specific tools, or explore trending recommendations.
 
-## Tool Reviews
-- [Chatgpt Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/chatgpt.html)
-- [Claude Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/claude.html)
-- [Gemini Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/gemini.html)
-- [Midjourney Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/midjourney.html)
-- [Dalle Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/dalle.html)
-- [Stable Diffusion Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/stable-diffusion.html)
-- [Copilot Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/copilot.html)
-- [Cursor Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/cursor.html)
-- [Notion Ai Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/notion-ai.html)
-- [Jasper Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/jasper.html)
-- [Runway Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/runway.html)
-- [Elevenlabs Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/elevenlabs.html)
-- [Perplexity Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/perplexity.html)
-- [Suno Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/suno.html)
-- [Devin Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/devin.html)
+### Category Pages
+- [Coding AI Tools](https://lianghuahuang888-dev.github.io/ai-tool-finder/categories/coding.html) — AI-powered coding assistants, code generators, IDE plugins, and developer productivity tools. Includes tools like ChatGPT, Claude, GitHub Copilot, Cursor, and specialized coding LLMs.
+- [Content Creation AI Tools](https://lianghuahuang888-dev.github.io/ai-tool-finder/categories/content-creation.html) — AI writing assistants, content generators, paraphrasing tools, grammar checkers, and creative writing platforms. Covers tools like ChatGPT, Claude, Jasper, Copy.ai, and Notion AI.
+- [Image Generation AI Tools](https://lianghuahuang888-dev.github.io/ai-tool-finder/categories/image-generation.html) — AI image generators, design tools, photo editors, and visual content creation platforms. Includes Midjourney, DALL-E, Stable Diffusion, Canva AI, and Adobe Firefly.
+- [Video AI Tools](https://lianghuahuang888-dev.github.io/ai-tool-finder/categories/video.html) — AI video generators, editors, animation tools, and video enhancement platforms. Covers Runway, Pika, Synthesia, HeyGen, and CapCut.
+- [Music & Audio AI Tools](https://lianghuahuang888-dev.github.io/ai-tool-finder/categories/music.html) — AI music generators, audio editing tools, voice synthesis, and sound design platforms. Includes Suno, Udio, ElevenLabs, and Mubert.
 
-## About
+### Blog & Resources
+- [AI Tool Finder Blog](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog.html) — Articles, guides, and tutorials about AI tools, industry trends, best practices, and comparison analyses. Topics include how to choose the right AI tools for your workflow, AI tool pricing comparison guides, and deep dives into specific AI tool categories.
+- [Affiliate Disclosure](https://lianghuahuang888-dev.github.io/ai-tool-finder/affiliate-disclosure.html) — Transparency page explaining our affiliate relationships and how we maintain editorial independence while earning commissions through some tool links.
+- [Privacy Policy](https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html) — Comprehensive privacy policy detailing data collection practices, cookie usage, and user rights.
+
+## Detailed Tool Reviews
+
+### Coding Tools
+- [ChatGPT Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/chatgpt.html) — OpenAI's flagship conversational AI. A versatile tool for coding assistance, code review, bug fixing, and learning programming concepts. Supports multiple programming languages with strong reasoning capabilities. GPT-4o model delivers state-of-the-art code generation. Pricing includes free tier and ChatGPT Plus at $20/month.
+- [Claude Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/claude.html) — Anthropic's powerful AI assistant known for long context windows up to 200K tokens. Excellent for code review, large codebase analysis, and technical documentation. Strong safety features and nuanced understanding. Available via claude.ai with Pro plan at $20/month.
+- [GitHub Copilot Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/github-copilot.html) — The leading AI pair programmer integrated directly into popular IDEs. Provides real-time code completions, chat assistance, and code explanation. Supports VS Code, JetBrains, Neovim, and GitHub.com. Pricing starts at $10/month for individuals.
+- [Cursor Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/cursor.html) — An AI-first code editor built on VS Code with advanced AI features including multi-line edits, smart rewrites, and whole-codebase understanding. Pro plan at $20/month with GPT-4 and Claude integration.
+- [Perplexity Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/perplexity.html) — AI-powered search engine with coding capabilities. Excellent for research-driven development, documentation lookup, and technical problem-solving. Pro search provides deep, citation-backed answers. Free tier available with Pro at $20/month.
+
+### Content Creation Tools
+- [Jasper Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/jasper.html) — Enterprise-grade AI content platform with brand voice customization, team collaboration, marketing templates, and multi-language support. Ideal for marketing teams and agencies. Plans start at $49/month.
+- [Copy.ai Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/copy-ai.html) — AI writing tool focused on marketing copy, sales emails, social media content, and blog posts. Features workflow automation and team collaboration. Free tier available with Pro plans from $49/month.
+- [Notion AI Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/notion-ai.html) — AI features integrated within Notion's workspace platform. Provides writing assistance, summarization, translation, and content generation within documents, wikis, and databases. Available as add-on at $10/month.
+
+### Image Generation Tools
+- [Midjourney Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/midjourney.html) — Premium AI image generator known for artistic quality and aesthetic excellence. Operates through Discord with powerful prompting capabilities. Plans from $10/month with GPU-fast generation. Popular among artists, designers, and creative professionals.
+- [DALL-E Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/dalle.html) — OpenAI's image generation model integrated into ChatGPT. Known for prompt adherence and text rendering capabilities. Accessible via ChatGPT Plus subscription with intuitive conversational interface.
+- [Stable Diffusion Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/stable-diffusion.html) — Open-source image generation model with extensive community support, custom models, and local deployment options. Highly customizable through tools like Automatic1111 and ComfyUI. Free and open-source.
+- [Canva AI Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/canva-ai.html) — AI design features integrated into Canva's popular design platform. Magic Design, background removal, and AI image generation make design accessible to everyone. Free tier with Pro at $13/month.
+- [Adobe Firefly Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/adobe-firefly.html) — Adobe's generative AI model for creative professionals. Integrated into Photoshop, Illustrator, and Creative Cloud apps. Features include generative fill, text-to-image, and text effects. Included with Creative Cloud subscriptions.
+
+### Video & Audio Tools
+- [Runway Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/runway.html) — AI video generation and editing platform used by filmmakers and content creators. Features include text-to-video, video-to-video, motion tracking, and green screen. Plans from $15/month.
+- [Synthesia Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/synthesia.html) — AI video creation with photorealistic avatars for training videos, marketing content, and corporate communications. Supports 140+ languages and 150+ AI avatars. Plans from $22/month.
+- [ElevenLabs Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/elevenlabs.html) — State-of-the-art AI voice synthesis and text-to-speech platform. Industry-leading voice quality with voice cloning, dubbing, and speech-to-speech capabilities. Free tier with Creator plan at $22/month.
+- [Suno Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/suno.html) — AI music generation platform that creates complete songs with vocals, instrumentation, and lyrics from text prompts. Multiple genres and styles supported. Free tier with Pro at $10/month.
+- [Devin Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/devin.html) — Cognition AI's autonomous software engineer. Devin can plan, code, debug, and deploy applications end-to-end. Represents the cutting edge of AI coding agents. Enterprise pricing for teams.
+
+## Technical Information
+
+### Structured Data
+The site implements Schema.org JSON-LD structured data across all pages including Organization, WebSite, TechArticle, FAQPage, BreadcrumbList, and CollectionPage schemas. This structured markup helps AI search engines and crawlers understand site content, relationships, and entity information for improved discovery and rich result presentation.
+
+### AI Discovery Endpoints
+The site provides AI-optimized discovery endpoints conforming to emerging standards:
+- llms.txt: Extended Markdown discovery file with comprehensive site structure and content descriptions
+- llms_full.txt: Complete extended discovery file with additional detail and context
+- /.well-known/ai.txt: AI agent discovery file following the proposed standard
+- robots.txt: Standard robots exclusion protocol with AI crawler-specific rules for PerplexityBot, OAI-SearchBot, Claude-SearchBot, and ClaudeBot
+
+### Content Organization
+The site follows a clear hierarchical structure optimized for both human users and AI crawlers. Each tool review page contains structured pricing information, feature breakdowns, use case descriptions, target audience identification, and comparison with alternatives. Content is organized with proper heading hierarchy (H1-H4), semantic HTML5 elements, and accessible navigation patterns.
+
+### Update Cadence
+Content is regularly reviewed and updated to reflect changes in AI tool pricing, features, and market positioning. New tools are added as they emerge in the rapidly evolving AI landscape. Blog articles cover trending topics, tool comparisons, and practical guides for integrating AI tools into professional workflows.
+
+## About & Legal
+
 - Full disclosure: https://lianghuahuang888-dev.github.io/ai-tool-finder/affiliate-disclosure.html
 - Privacy policy: https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html
-- Last updated: 2026-04-30
+- Contact: Available via the website
+- Last updated: 2026-05-01
+
+## Quick Reference: All Tool Pages
+- ChatGPT: /tools/chatgpt.html
+- Claude: /tools/claude.html
+- GitHub Copilot: /tools/github-copilot.html
+- Cursor: /tools/cursor.html
+- Perplexity: /tools/perplexity.html
+- Jasper: /tools/jasper.html
+- Copy.ai: /tools/copy-ai.html
+- Notion AI: /tools/notion-ai.html
+- Midjourney: /tools/midjourney.html
+- DALL-E: /tools/dalle.html
+- Stable Diffusion: /tools/stable-diffusion.html
+- Canva AI: /tools/canva-ai.html
+- Adobe Firefly: /tools/adobe-firefly.html
+- Runway: /tools/runway.html
+- Synthesia: /tools/synthesia.html
+- ElevenLabs: /tools/elevenlabs.html
+- Suno: /tools/suno.html
+- Devin: /tools/devin.html
+
+## Category Pages Reference
+- /categories/coding.html — Coding AI Tools
+- /categories/content-creation.html — Content Creation AI Tools
+- /categories/image-generation.html — Image Generation AI Tools
+- /categories/video.html — Video AI Tools
+- /categories/music.html — Music & Audio AI Tools
+
+This llms.txt file serves as a machine-readable directory of all content available on AI Tool Finder, enabling AI systems to efficiently discover, index, and understand the site's structure and content offerings for improved search and retrieval.
+
+## SEO & GEO Optimization Notes
+
+AI Tool Finder is optimized for Generative Engine Optimization (GEO) to ensure maximum visibility across both traditional search engines and AI-powered search platforms. The site implements comprehensive technical SEO best practices including semantic HTML5 structure, proper heading hierarchies, descriptive meta tags, Open Graph protocol for social sharing, Twitter Card metadata, and structured data markup following Schema.org vocabulary. Canonical URLs prevent duplicate content issues while XML sitemap generation ensures thorough indexing coverage. Page speed optimization includes efficient CSS delivery, minimal JavaScript footprint, and optimized image assets. Mobile responsiveness is ensured through viewport configuration and responsive design patterns that adapt to all screen sizes from desktop to mobile devices.
+
+## Content Strategy & Quality Standards
+
+Every tool review on AI Tool Finder follows a consistent editorial framework designed to deliver maximum value to readers. Reviews include verified pricing information, factual feature descriptions, objective pros and cons analysis, real-world use case examples, and honest comparisons with competing tools. Content is written in clear, accessible English suitable for both technical and non-technical audiences. Key information is presented upfront with supporting details structured for easy scanning. All pricing data includes both free tier availability and paid plan details with monthly and annual pricing where applicable. Special attention is given to recent updates and future roadmap information to ensure reviews remain timely and relevant.
+
+## Target Audience & Use Cases
+
+The platform serves multiple user personas including software developers evaluating AI coding assistants, content marketers seeking AI writing tools, designers exploring AI image generation platforms, video producers researching AI video editing solutions, business leaders assessing enterprise AI adoption, students and educators integrating AI into learning workflows, freelancers and solopreneurs building AI-powered service stacks, and AI enthusiasts tracking the latest developments in artificial intelligence tools. Each tool review addresses the specific needs and evaluation criteria relevant to these different audience segments.
+
+## How to Use This Resource
+
+Browse by category to explore tools relevant to your field, compare pricing and features across similar tools, read in-depth reviews for detailed analysis, check blog articles for comparison guides and tutorials, and use the structured data and discovery files for programmatic access to our tool database. The platform is designed to support both quick skimming for key facts and deep reading for comprehensive evaluation, accommodating different research styles and information needs.
+
+## Frequently Asked Questions (FAQ)
+
+**What is the best AI tool for coding?** The answer depends on your specific needs. GitHub Copilot excels at real-time code completion within IDEs, while ChatGPT and Claude offer broader conversational coding assistance with strong reasoning capabilities. Cursor provides an AI-native editor experience that integrates deeply with your codebase. For autonomous coding, Devin represents the cutting edge but requires enterprise investment.
+
+**Are AI tools worth the subscription cost?** For most professionals, AI tools deliver significant ROI through time savings, improved output quality, and the ability to handle more complex tasks. Many tools offer free tiers that provide substantial value before requiring paid subscriptions. Our reviews include detailed pricing breakdowns to help you evaluate cost-effectiveness against your specific budget and needs.
+
+**How do I choose between similar AI tools?** Compare pricing, key features, integration capabilities, output quality, and real user reviews across our detailed comparison pages. Consider your specific workflow requirements, budget constraints, and preferred platform ecosystem. Our blog includes head-to-head comparison guides for popular tool pairings like ChatGPT versus Claude, Midjourney versus DALL-E, and GitHub Copilot versus Cursor.
+
+**Can I use AI-generated content commercially?** Most AI tools allow commercial use of generated content, but licensing terms vary significantly by platform and subscription tier. Our reviews note commercial use rights where clearly defined in each tool's terms of service. Always review the specific terms of your chosen tool before commercial deployment, especially for image generation tools where copyright law continues to evolve.
+
+**How often is AI Tool Finder updated?** We continuously monitor the AI tools landscape and update our reviews and pricing information as changes occur. New tools are added regularly as they emerge, and existing reviews are refreshed to reflect the latest features, pricing changes, and user feedback. The site was last fully updated on May 1, 2026.
