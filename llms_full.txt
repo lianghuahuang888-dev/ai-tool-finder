@@ -1,0 +1,91 @@
+# AI Tool Finder — llms_full.txt
+# URL: https://lianghuahuang888-dev.github.io/ai-tool-finder
+# Extended discovery file for AI crawlers: full content, structured data, sitemap
+
+> Expert reviews, pricing comparisons, and recommendations for AI tools in 2026. We help you find the best AI tools for coding, content creation, image generation, and more. Updated May 2026.
+
+## 🏠 Home
+- [AI Tool Finder](https://lianghuahuang888-dev.github.io/ai-tool-finder/)
+
+## 📋 Blog Articles
+- [Top 10 AI Coding Assistants (2026)](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-coding-assistants-2026.html)
+- [AI Image Generators Compared](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-image-generators-compared.html)
+- [Chatbots: ChatGPT vs Claude vs Gemini](https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-vs-claude-vs-gemini.html)
+
+## 🔧 Tool Reviews (index pages)
+
+### Chatbots
+- [ChatGPT Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/chatgpt.html) — OpenAI's flagship conversational AI, supports text, code, image analysis, and web browsing. Advanced reasoning (GPT-4o), plugin ecosystem.
+- [Claude Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/claude.html) — Anthropic's AI assistant known for long context windows (200K tokens) and nuanced, safe responses.
+- [Gemini Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/gemini.html) — Google's multimodal AI built into Google ecosystem. Native integration with Gmail, Drive, Calendar.
+
+### Image Generation
+- [Midjourney Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/midjourney.html) — Industry-leading AI image generator accessed via Discord. Known for artistic quality and style controls.
+- [DALL-E 3 Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/dalle3.html) — OpenAI's text-to-image model with strong prompt adherence and text rendering capabilities.
+- [Stable Diffusion XL Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/stable-diffusion.html) — Open-source image generation model. Self-hostable, highly customizable with LoRA and ControlNet.
+
+### Code Assistants
+- [GitHub Copilot Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/github-copilot.html) — AI pair programmer that suggests code completions in real-time across multiple IDEs.
+- [Cursor Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/cursor.html) — AI-first code editor built on VS Code. Inline editing, multi-file refactoring, and terminal integration.
+- [Devin Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/devin.html) — AI software engineer that plans and executes complex coding tasks autonomously in a sandbox environment.
+
+### Content Writing
+- [Jasper Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/jasper.html) — Enterprise-focused AI content platform for marketing teams. Templates, brand voice customization.
+
+### Productivity
+- [Notion AI Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/notion-ai.html) — AI writing and organization features built directly into Notion workspace. Summarization, translation, Q&A.
+
+### Video Generation
+- [Runway Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/runway.html) — AI video generation and editing platform. Gen-3 model for text-to-video, professional editor.
+
+### Voice/Audio
+- [ElevenLabs Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/elevenlabs.html) — State-of-the-art AI text-to-speech and voice cloning. Natural-sounding voices in 32+ languages.
+
+### Music/Audio
+- [Suno Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/suno.html) — AI music generator. Create full songs with lyrics, melody, and instrumentation from text prompts.
+
+### Search/Research
+- [Perplexity AI Review](https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/perplexity.html) — AI-powered search engine that provides cited answers. Combines search with LLM reasoning.
+
+## 💰 Pricing Information
+- Most tools offer free tier or trial
+- ChatGPT: Free tier with GPT-4o mini; Plus $20/mo (GPT-4o)
+- Claude: Free tier; Pro $20/mo
+- Gemini: Free tier; Advanced $20/mo (Google One AI Premium)
+- Midjourney: Plans from $10/mo
+- GitHub Copilot: Individual $10/mo; Business $19/mo
+- Cursor: Free tier; Pro $20/mo
+- Notion AI: $10/mo add-on
+- Jasper: Starts at $49/mo
+- ElevenLabs: Free tier; Creator $5/mo
+- Perplexity AI: Free tier; Pro $20/mo
+- Devin: $500/mo
+
+## 📊 Tool Comparison Matrix
+| Tool | Category | Price | Rating | Key Strength |
+|------|----------|-------|--------|-------------|
+| ChatGPT | Chatbot | Free/$20mo | 4.8 | Best all-around AI |
+| Claude | Chatbot | Free/$20mo | 4.7 | Longest context |
+| Gemini | Chatbot | Free/$20mo | 4.3 | Google integration |
+| Midjourney | Image Gen | $10/mo | 4.9 | Best image quality |
+| DALL-E 3 | Image Gen | Pay-per-use | 4.6 | Text-in-image quality |
+| GitHub Copilot | Code | $10/mo | 4.7 | IDE integration |
+| Cursor | Code | Free/$20mo | 4.8 | AI-first editing |
+| ElevenLabs | Voice | Free/$5mo | 4.9 | Voice quality |
+| Perplexity | Search | Free/$20mo | 4.8 | Cited research |
+| Notion AI | Productivity | $10/mo add-on | 4.4 | Workspace integration |
+
+## 🔗 External Resources
+- [ChatGPT Official](https://chat.openai.com/)
+- [Claude Official](https://claude.ai/)
+- [GitHub Copilot Docs](https://docs.github.com/copilot)
+- [Midjourney Discord](https://discord.gg/midjourney)
+- [Perplexity AI](https://www.perplexity.ai/)
+
+## 📄 Site Info
+- Affiliate Disclosure: https://lianghuahuang888-dev.github.io/ai-tool-finder/affiliate-disclosure.html
+- Privacy Policy: https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html
+- Terms of Service: https://lianghuahuang888-dev.github.io/ai-tool-finder/terms.html
+- Contact: https://lianghuahuang888-dev.github.io/ai-tool-finder/contact.html
+- About: https://lianghuahuang888-dev.github.io/ai-tool-finder/about.html
+- Last updated: 2026-05-01

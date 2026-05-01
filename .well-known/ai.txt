@@ -1,15 +1,15 @@
-# AI Discovery for lianghuahuang888-dev.github.io
+# AI Discovery for lianghuahuang888-dev.github.io/ai-tool-finder
 # RFC 8615 — /.well-known/ai.txt
 # Purpose: Help AI crawlers (ChatGPT, Claude, Perplexity, Gemini) discover content.
 
-llms.txt: https://lianghuahuang888-dev.github.io/llms.txt
-llms-full.txt: https://lianghuahuang888-dev.github.io/llms.txt
+llms.txt: https://lianghuahuang888-dev.github.io/ai-tool-finder/llms.txt
+llms-full.txt: https://lianghuahuang888-dev.github.io/ai-tool-finder/llms_full.txt
 
 # AI Summary (machine-readable overview)
-ai.json: https://lianghuahuang888-dev.github.io/ai/summary.json
+ai.json: https://lianghuahuang888-dev.github.io/ai-tool-finder/ai/summary.json
 
 # Service endpoint (MCP/API for tool-based access)
-service.json: https://lianghuahuang888-dev.github.io/ai/service.json
+service.json: https://lianghuahuang888-dev.github.io/ai-tool-finder/ai/service.json
 
 # Crawler access policy
 allowed: OAI-SearchBot, ClaudeBot, PerplexityBot, Google-Extended
