@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+audit_raw.txt
+debug_*.txt
+geo_*.json
+*.json
+.DS_Store
