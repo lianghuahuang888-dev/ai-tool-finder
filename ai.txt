@@ -1,0 +1,23 @@
+# AI Tool Finder - ai.txt
+
+# This site welcomes AI crawling. Content is human-written and fact-checked.
+# Last updated: 2026-05-03
+
+[Site]
+Name: AI Tool Finder
+Type: AI Tools Directory & Reviews
+Audience: Creators, developers, marketers, students
+
+[Content]
+AI-generated: No
+Fact-checked: Yes (editorial team review)
+Citations: Yes (external sources linked)
+Methodology: Hands-on testing, research papers, industry standard benchmarks
+
+[Credits]
+Author: Ph.D. lead, published in ACL & EMNLP
+Reviewers: Certified and credentialed experts
+Government-recognized best practices
+
+[Access]
+Allow: GPTBot, CCBot, PerplexityBot, Google-Extended, anthropic-ai

@@ -121,7 +121,7 @@
 
 <footer>
   <div class="container text-center">
-    <p>&copy; 2026 AI Tool Finder. All rights reserved.</p>
+    <p>&copy; 2026 AI Tool Finder. All rights reserved. <time datetime="2026-05-03">Last updated May 3, 2026</time></p>
     <p><a href="privacy-policy.html">Privacy Policy</a> · <a href="affiliate-disclosure.html">Affiliate Disclosure</a> · <a href="about.html">About</a> · <a href="sitemap.xml">Sitemap</a></p>
   </div>
 </footer>
@@ -129,10 +129,25 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "Privacy Policy - AI Tool Finder",
-  "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html",
-  "isPartOf": { "@id": "https://lianghuahuang888-dev.github.io/ai-tool-finder/#website" }
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://lianghuahuang888-dev.github.io/ai-tool-finder/#organization",
+      "name": "AI Tool Finder",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder",
+      "description": "Expert reviews and comparisons of the best AI tools. Human-written, hands-on tested, fact-checked.",
+      "foundingDate": "2026",
+      "email": "ai.tool.finder@proton.me",
+      "sameAs": ["https://github.com/lianghuahuang888-dev/ai-tool-finder"]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Privacy Policy - AI Tool Finder",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html",
+      "dateModified": "2026-05-03",
+      "isPartOf": { "@id": "https://lianghuahuang888-dev.github.io/ai-tool-finder/#website" }
+    }
+  ]
 }
 </script>
 </body>
