@@ -37,7 +37,7 @@ nav a:hover { color:var(--primary); }
 /* Sections */
 section { padding:64px 0; }
 .section-title { font-size:2rem; font-weight:700; margin-bottom:8px; }
-.section-subtitle { color:var(--text-light); margin-bottom:32px; font-size:1.05rem; }
+.section-subtitle { color:#475569; margin-bottom:32px; font-size:1.05rem; }
 
 /* Tool Cards */
 .tools-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(340px, 1fr)); gap:24px; }
@@ -122,9 +122,33 @@ footer a:hover { color:white; }
 .newsletter-form input { flex:1; padding:12px 20px; border-radius:50px; border:none; font-size:1rem; }
 .newsletter-form button { padding:12px 28px; background:var(--accent); color:white; border:none; border-radius:50px; font-weight:700; cursor:pointer; }
 
+
+/* Glossary entries */
+.glossary-entry {
+  margin-bottom: 28px;
+  padding: 20px;
+  border-left: 3px solid var(--accent);
+  background: rgba(128,128,128,0.05);
+  border-radius: 0 8px 8px 0;
+}
+.glossary-entry h3 {
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+.glossary-entry p {
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 0.93rem;
+}
+
 @media(max-width:768px) {
   .hero h1 { font-size:2rem; }
   .detail-grid, .pros-cons, footer .container { grid-template-columns:1fr; }
   nav { gap:12px; }
   nav a { font-size:0.85rem; }
+}
+
+/* Glossary 2-column desktop layout */
+@media(min-width:769px) {
+  .glossary-columns { display:grid; grid-template-columns:1fr 1fr; gap:0 32px; }
 }
