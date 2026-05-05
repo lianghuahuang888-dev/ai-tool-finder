@@ -91,6 +91,34 @@
       "competition": "High",
       "category": "tool-page",
       "rationale": "Niche tool page, moderate competition"
+    },
+    "best-ai-tools-under-20": {
+      "search_volume_est": 50,
+      "competition": "Low",
+      "category": "comparison",
+      "page": "best-ai-tools-under-20-dollars.html",
+      "rationale": "Long-tail: budget AI tools, low KD, high purchase intent"
+    },
+    "claude-vs-chatgpt-coding": {
+      "search_volume_est": 80,
+      "competition": "Medium",
+      "category": "comparison",
+      "page": "claude-vs-chatgpt-coding-2026.html",
+      "rationale": "High-search comparison query, Reddit/discussion-driven"
+    },
+    "midjourney-alternatives-free": {
+      "search_volume_est": 200,
+      "competition": "Medium",
+      "category": "list",
+      "page": "midjourney-alternatives-free.html",
+      "rationale": "Large organic search demand, 10 alternatives format"
+    },
+    "ai-tool-finder-no-signup": {
+      "search_volume_est": 30,
+      "competition": "Low",
+      "category": "landing",
+      "page": "ai-tool-finder-free-no-signup.html",
+      "rationale": "Low-competition discovery keyword, niche intent"
     }
   },
   "content_clusters": {
@@ -123,14 +151,17 @@
     }
   },
   "long_tail_opportunities": [
-    "ai-tool-finder-free-no-signup",
+    "best-ai-tools-under-20-dollars",
     "claude-vs-chatgpt-coding-2026",
     "midjourney-alternatives-free",
-    "best-ai-tools-under-20-dollars"
+    "ai-tool-finder-free-no-signup",
+    "ai-for-small-business-beginners",
+    "best-free-ai-writing-tools-students"
   ],
   "evaluation_criteria": {
     "success": "Organic CTR > 3% and avg position < 15",
     "adjust": "Drop KWs with > 6 months avg position > 30",
     "tool": "GSC Search Analytics API"
-  }
+  },
+  "updated": "2026-05-05"
 }
