@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <Triggers>
+    <CalendarTrigger><StartBoundary>2026-05-07T08:00:00</StartBoundary><ScheduleByDay><DaysInterval>1</DaysInterval></ScheduleByDay></CalendarTrigger>
+  </Triggers>
+  <Actions Context="Author">
+    <Exec><Command>C:\Users\Administrator\Desktop\GenericAgent\temp\ai-tool-finder\daily_check.bat</Command></Exec>
+  </Actions>
+</Task>

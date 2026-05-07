@@ -30,7 +30,31 @@ def check_deployment():
         return {"error": "can't reach site"}
 
 if __name__ == "__main__":
-    print(f"=== AI Tool Finder Daily Monitor === {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    import argparse
+    p = argparse.ArgumentParser(description="AI Tool Finder Daily Monitor")
+    p.add_argument("--schedule", action="store_true", help="Run continuously, checking every 24h at 08:00")
+    p.add_argument("--audit", action="store_true", help="Also run GEO audit and log score")
+    p.add_argument("--oneshot", action="store_true", help="Run once and exit (default)")
+    args = p.parse_args()
+    
+    if args.schedule:
+        print("Daily Monitor started — will run every 24h at 08:00. Press Ctrl+C to stop.")
+        import threading
+        def daily_check():
+            while True:
+                now = datetime.now()
+                target = now.replace(hour=8, minute=0, second=0, microsecond=0)
+                if now >= target:
+                    target = target.replace(day=target.day + 1)
+                wait = (target - now).total_seconds()
+                print(f"Next check: {target.strftime('%Y-%m-%d %H:%M')} (in {wait/3600:.1f}h)")
+                time.sleep(wait)
+                run_checks(args.audit)
+        t = threading.Thread(target=daily_check, daemon=True)
+        t.start()
+        t.join()
+    else:
+        run_checks(args.audit or args.oneshot)
     
     failures = check_uptime()
     if failures:
