@@ -65,7 +65,7 @@ def audit_page(filepath, relpath):
     h3s = len(re.findall(r'<h3[^>]*>', content))
     uls = len(re.findall(r'<ul[^>]*>', content))
     tables = len(re.findall(r'<table[^>]*>', content))
-    ext_links = len(re.findall(r'href="https?://(?!lianghuahuang888)[^"]+', content))
+    ext_links = len(re.findall(r'href="https?://(?!lianghuahuang888-dev\.github\.io|pullnova\.com)[^"]+', content))
     has_stats = bool(re.search(r'\d+%|\$\d+|\d+\s*(million|billion|thousand)', text))
     
     score = 0
