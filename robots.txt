@@ -65,4 +65,4 @@ Allow: /
 User-agent: Amazonbot
 Allow: /
 
-Sitemap: https://pullnova.com/sitemap.xml
+Sitemap: https://lianghuahuang888-dev.github.io/ai-tool-finder/sitemap.xml
