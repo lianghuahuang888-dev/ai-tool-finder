@@ -3,7 +3,7 @@
 import requests, json, time, sys
 from datetime import datetime
 
-BASE = "https://pullnova.com"
+BASE = "https://lianghuahuang888-dev.github.io/ai-tool-finder"
 PAGES = ["/", "/about", "/contact", "/compare.html", "/blog.html"]
 
 def check_uptime():
@@ -76,6 +76,6 @@ if __name__ == "__main__":
         print("⚠️ RSS feed not referenced in homepage")
     
     print("\n📊 Manual checks needed:")
-    print("   GSC: https://search.google.com/search-console?resource_id=https://pullnova.com/")
+    print("   GSC: https://search.google.com/search-console?resource_id=https://lianghuahuang888-dev.github.io/ai-tool-finder/")
     print("   GA4: https://analytics.google.com/analytics/web/")
     print("   GitHub Actions: https://github.com/lianghuahuang888-dev/ai-tool-finder/actions")
