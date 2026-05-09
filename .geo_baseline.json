@@ -1,46 +1,83 @@
 {
-  "timestamp": "2026-05-03T16:26:26.047089",
-  "page_count": 33,
-  "total_score": 1108,
-  "avg_score": 33.6,
+  "timestamp": "2026-05-09T21:24:21.251238",
+  "page_count": 37,
+  "total_score": 1338,
+  "avg_score": 36.2,
   "max_per_page": 90,
   "pages": [
     {
       "file": "about.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/about.html",
-      "hash": "f0cc9c63a8a036cddcf96a9566fd7c24",
-      "score": 36,
-      "words": 615,
-      "ext_links": 5,
+      "hash": "a90d90880b26065388102577f05f543a",
+      "score": 37,
+      "words": 1094,
+      "ext_links": 8,
       "schema_types": [
-        "Organization"
+        "Organization",
+        "FAQPage"
       ],
-      "has_faq": false,
+      "has_faq": true,
       "title_len": 67,
       "desc_len": 182
     },
     {
       "file": "affiliate-disclosure.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/affiliate-disclosure.html",
-      "hash": "6850876c10cc8f438f0032db60fe87b7",
-      "score": 25,
-      "words": 363,
-      "ext_links": 0,
+      "hash": "7635029a19d841b33f36f734ab336d73",
+      "score": 34,
+      "words": 413,
+      "ext_links": 5,
       "schema_types": [
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 37,
       "desc_len": 133
     },
     {
+      "file": "ai-tool-finder-free-no-signup.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/ai-tool-finder-free-no-signup.html",
+      "hash": "5d41e31b06da57a3df6274435f98dedc",
+      "score": 34,
+      "words": 949,
+      "ext_links": 1,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "FAQPage",
+        "Organization"
+      ],
+      "has_faq": true,
+      "title_len": 74,
+      "desc_len": 130
+    },
+    {
+      "file": "best-ai-tools-under-20-dollars.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/best-ai-tools-under-20-dollars.html",
+      "hash": "4910c74e3b8265d711defd49cc9bdbc9",
+      "score": 34,
+      "words": 949,
+      "ext_links": 1,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "FAQPage",
+        "Organization"
+      ],
+      "has_faq": true,
+      "title_len": 69,
+      "desc_len": 143
+    },
+    {
       "file": "blog.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog.html",
-      "hash": "4fbb9f0ef3c28b10e250cb8b1bfdae90",
-      "score": 26,
-      "words": 364,
-      "ext_links": 0,
+      "hash": "dcaaac109e0a77abed12dab3436c86e2",
+      "score": 33,
+      "words": 403,
+      "ext_links": 4,
       "schema_types": [
+        "Organization",
         "unknown",
         "FAQPage",
         "Blog"
@@ -50,16 +87,34 @@
       "desc_len": 156
     },
     {
+      "file": "claude-vs-chatgpt-coding-2026.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/claude-vs-chatgpt-coding-2026.html",
+      "hash": "0373945465c71df7cd7b9941e18eaced",
+      "score": 34,
+      "words": 947,
+      "ext_links": 1,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "FAQPage",
+        "Organization"
+      ],
+      "has_faq": true,
+      "title_len": 72,
+      "desc_len": 135
+    },
+    {
       "file": "compare.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/compare.html",
-      "hash": "ff33b5914826b76e5729a489b1a3a0cf",
-      "score": 31,
-      "words": 1023,
-      "ext_links": 0,
+      "hash": "b9ea2f47abbc1b89091c3ea1345b15ff",
+      "score": 34,
+      "words": 1062,
+      "ext_links": 1,
       "schema_types": [
         "WebPage",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 80,
@@ -68,39 +123,63 @@
     {
       "file": "contact.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/contact.html",
-      "hash": "040f410b35b06d42567ab6cbfdd48391",
-      "score": 36,
-      "words": 444,
-      "ext_links": 3,
+      "hash": "e904ba162266cb7b6ec9f2d2a62652bd",
+      "score": 37,
+      "words": 488,
+      "ext_links": 7,
       "schema_types": [
-        "Organization"
+        "Organization",
+        "FAQPage"
       ],
-      "has_faq": false,
+      "has_faq": true,
       "title_len": 70,
       "desc_len": 171
     },
     {
       "file": "index.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/",
-      "hash": "39562be9e174c6a95121067aa1089c6a",
-      "score": 27,
-      "words": 1059,
-      "ext_links": 0,
-      "schema_types": [],
-      "has_faq": false,
+      "hash": "b5f47d9fa62f9423a0cb1a39d49decf3",
+      "score": 38,
+      "words": 6592,
+      "ext_links": 6,
+      "schema_types": [
+        "Organization",
+        "WebSite",
+        "FAQPage",
+        "TechArticle",
+        "BreadcrumbList"
+      ],
+      "has_faq": true,
       "title_len": 82,
-      "desc_len": 149
+      "desc_len": 170
+    },
+    {
+      "file": "midjourney-alternatives-free.html",
+      "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/midjourney-alternatives-free.html",
+      "hash": "aa27036334f7823cf05a35dd79011b66",
+      "score": 34,
+      "words": 947,
+      "ext_links": 1,
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "FAQPage",
+        "Organization"
+      ],
+      "has_faq": true,
+      "title_len": 73,
+      "desc_len": 132
     },
     {
       "file": "privacy-policy.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/privacy-policy.html",
-      "hash": "ef5d2ae6cac4930308ad51101251ebfa",
-      "score": 24,
-      "words": 266,
-      "ext_links": 2,
+      "hash": "f50e7d002264d68be7101e66c204dba1",
+      "score": 33,
+      "words": 305,
+      "ext_links": 3,
       "schema_types": [
         "FAQPage",
-        "WebPage"
+        "unknown"
       ],
       "has_faq": true,
       "title_len": 31,
@@ -109,14 +188,15 @@
     {
       "file": "tools/chatgpt.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/chatgpt.html",
-      "hash": "6d778d678ce4a80a4a23ea2a103f40f1",
+      "hash": "c27364f84c0b0a85e5933ca7692be625",
       "score": 38,
-      "words": 928,
-      "ext_links": 3,
+      "words": 967,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 74,
@@ -125,14 +205,15 @@
     {
       "file": "tools/claude.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/claude.html",
-      "hash": "f7969f51a37dc4e6862a70eee1a7d13a",
+      "hash": "24cdd379d2f5113f0192d72bf9c381ad",
       "score": 38,
-      "words": 860,
-      "ext_links": 3,
+      "words": 899,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 73,
@@ -141,14 +222,15 @@
     {
       "file": "tools/copilot.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/copilot.html",
-      "hash": "f3a03a440ae45738b3ec8bd82576aac9",
+      "hash": "02e959c03540d9a046eb63f848ec44b4",
       "score": 38,
-      "words": 862,
-      "ext_links": 3,
+      "words": 901,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 81,
@@ -157,14 +239,15 @@
     {
       "file": "tools/cursor.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/cursor.html",
-      "hash": "9cca8e82526dee0ed67b70979fd95a44",
+      "hash": "bcab77125160434e7f9f10c78a6b5f1b",
       "score": 38,
-      "words": 911,
-      "ext_links": 3,
+      "words": 950,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 73,
@@ -173,14 +256,15 @@
     {
       "file": "tools/dalle.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/dalle.html",
-      "hash": "5cb59735813aff61940889d8f72bc46b",
+      "hash": "a67814be7252378885bebd0bc2f8b7b7",
       "score": 38,
-      "words": 884,
-      "ext_links": 3,
+      "words": 923,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 75,
@@ -189,14 +273,15 @@
     {
       "file": "tools/devin.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/devin.html",
-      "hash": "1b080ee3dfda79f7246180f09dfa83fd",
+      "hash": "0b276f4d6a89e4ae38849a3b27d63384",
       "score": 38,
-      "words": 902,
-      "ext_links": 3,
+      "words": 941,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 72,
@@ -205,14 +290,15 @@
     {
       "file": "tools/elevenlabs.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/elevenlabs.html",
-      "hash": "acca7b040a5a8bd2d1d38ce39440257c",
+      "hash": "f3ee6fd3f24a316d9f3179df5f03673b",
       "score": 38,
-      "words": 830,
-      "ext_links": 3,
+      "words": 869,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 77,
@@ -221,14 +307,15 @@
     {
       "file": "tools/gemini.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/gemini.html",
-      "hash": "11e592d7f47240fc5efc6f53cec3050f",
+      "hash": "a1627da57480ebe0c56da4b2a401943f",
       "score": 38,
-      "words": 850,
-      "ext_links": 3,
+      "words": 889,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 73,
@@ -237,14 +324,15 @@
     {
       "file": "tools/jasper.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/jasper.html",
-      "hash": "473290ad92d433318930d6bfa09070f9",
+      "hash": "7a1cf6f2b6d9d0a92a7458c12643d718",
       "score": 38,
-      "words": 822,
-      "ext_links": 3,
+      "words": 861,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 73,
@@ -253,14 +341,15 @@
     {
       "file": "tools/midjourney.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/midjourney.html",
-      "hash": "3d469bdbe5afaceaeca3dd7c97ef9316",
+      "hash": "11032ea43813983d677ac338ff6d2352",
       "score": 38,
-      "words": 833,
-      "ext_links": 3,
+      "words": 872,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 77,
@@ -269,14 +358,15 @@
     {
       "file": "tools/notion-ai.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/notion-ai.html",
-      "hash": "363ca988931acad5bb160ed4039861d5",
+      "hash": "ef18ee62182fdd61fbb8a193c2a7014a",
       "score": 38,
-      "words": 853,
-      "ext_links": 3,
+      "words": 892,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 76,
@@ -285,14 +375,15 @@
     {
       "file": "tools/perplexity.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/perplexity.html",
-      "hash": "6a4fa5c07a4ea4df31c4cf9bdce759b1",
+      "hash": "8ac1ac58147a5f3a41f70a29cac4a02e",
       "score": 38,
-      "words": 868,
-      "ext_links": 3,
+      "words": 907,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 80,
@@ -301,14 +392,15 @@
     {
       "file": "tools/runway.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/runway.html",
-      "hash": "fa88776f76091520d4d871e7c2cee126",
+      "hash": "5e23225f9657c67f2538da457dbe359a",
       "score": 38,
-      "words": 841,
-      "ext_links": 3,
+      "words": 880,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 73,
@@ -317,14 +409,15 @@
     {
       "file": "tools/stable-diffusion.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/stable-diffusion.html",
-      "hash": "c5889fbfea59c741504b4d9b8dc2213b",
+      "hash": "7bd412f8b57dced56dd751146dec60ba",
       "score": 38,
-      "words": 874,
-      "ext_links": 3,
+      "words": 913,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 86,
@@ -333,14 +426,15 @@
     {
       "file": "tools/suno.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/tools/suno.html",
-      "hash": "9457c4d43f532d85a290ae807057e5f9",
+      "hash": "6b74ad00733591e15480de171fc359e4",
       "score": 38,
-      "words": 835,
-      "ext_links": 3,
+      "words": 874,
+      "ext_links": 4,
       "schema_types": [
         "SoftwareApplication",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 71,
@@ -349,14 +443,15 @@
     {
       "file": "blog/ai-coding-tools-comparison.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-coding-tools-comparison.html",
-      "hash": "e85f52b12993afcc0c50e120879154b2",
-      "score": 29,
-      "words": 364,
-      "ext_links": 0,
+      "hash": "c541bc1cb7c1e19775e3144f9884846e",
+      "score": 32,
+      "words": 403,
+      "ext_links": 1,
       "schema_types": [
         "Article",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 89,
@@ -365,12 +460,13 @@
     {
       "file": "blog/ai-content-creation-workflow.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-content-creation-workflow.html",
-      "hash": "ec1bcd9db4326db9e4a706798eab52e9",
-      "score": 27,
-      "words": 530,
-      "ext_links": 2,
+      "hash": "00a6969402400b89c38e63d4e3c8100c",
+      "score": 34,
+      "words": 569,
+      "ext_links": 3,
       "schema_types": [
         "FAQPage",
+        "Organization",
         "Article"
       ],
       "has_faq": true,
@@ -380,14 +476,15 @@
     {
       "file": "blog/ai-image-generator-guide.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-image-generator-guide.html",
-      "hash": "4765fc7ef7cbaf1ae2eb91bd6fb014e4",
-      "score": 31,
-      "words": 453,
-      "ext_links": 0,
+      "hash": "94425fd85e01544391becf4d4da2be7d",
+      "score": 34,
+      "words": 492,
+      "ext_links": 1,
       "schema_types": [
         "Article",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 106,
@@ -396,12 +493,13 @@
     {
       "file": "blog/ai-tools-for-students.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-for-students.html",
-      "hash": "b282da19d3544922496e3a2a884bb245",
-      "score": 31,
-      "words": 648,
-      "ext_links": 2,
+      "hash": "a920c73d5d61ece5ecacb14a512f4f42",
+      "score": 38,
+      "words": 687,
+      "ext_links": 3,
       "schema_types": [
         "FAQPage",
+        "Organization",
         "Article"
       ],
       "has_faq": true,
@@ -411,14 +509,15 @@
     {
       "file": "blog/ai-tools-small-business.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-small-business.html",
-      "hash": "ffe9fb658c2cdbc93df1cfb73d73c7bb",
-      "score": 31,
-      "words": 418,
-      "ext_links": 0,
+      "hash": "2a025a45ff523779f4ec9f719162f287",
+      "score": 34,
+      "words": 457,
+      "ext_links": 1,
       "schema_types": [
         "Article",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 74,
@@ -427,12 +526,13 @@
     {
       "file": "blog/ai-video-tools-comparison.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-video-tools-comparison.html",
-      "hash": "ef6cc41c3d9fb158cd70dbcfce71e9e4",
-      "score": 29,
-      "words": 443,
-      "ext_links": 2,
+      "hash": "ca33fb6edfb1b152893c18f4188fa278",
+      "score": 36,
+      "words": 482,
+      "ext_links": 3,
       "schema_types": [
         "FAQPage",
+        "Organization",
         "Article"
       ],
       "has_faq": true,
@@ -442,12 +542,13 @@
     {
       "file": "blog/best-ai-coding-tools-2026.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-coding-tools-2026.html",
-      "hash": "2226afd39fe68137308a8a3b34493c44",
-      "score": 31,
-      "words": 482,
-      "ext_links": 2,
+      "hash": "37f9af83f26a7799fa399baef9a5d8f0",
+      "score": 38,
+      "words": 521,
+      "ext_links": 3,
       "schema_types": [
         "FAQPage",
+        "Organization",
         "Article"
       ],
       "has_faq": true,
@@ -457,14 +558,15 @@
     {
       "file": "blog/best-ai-tools-2026.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/best-ai-tools-2026.html",
-      "hash": "0389b822f035ca271e82a7e32aa0ebf3",
-      "score": 31,
-      "words": 910,
-      "ext_links": 0,
+      "hash": "7ba67bbdbde144083ad207b5de1f9ed1",
+      "score": 34,
+      "words": 949,
+      "ext_links": 1,
       "schema_types": [
         "Article",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 63,
@@ -473,12 +575,13 @@
     {
       "file": "blog/chatgpt-plus-worth-it-2026.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-plus-worth-it-2026.html",
-      "hash": "0ed6c580705886b98123d75335dff16f",
-      "score": 31,
-      "words": 492,
-      "ext_links": 2,
+      "hash": "898759a8bc489a3e85f4f04dc1cb74fe",
+      "score": 38,
+      "words": 531,
+      "ext_links": 3,
       "schema_types": [
         "FAQPage",
+        "Organization",
         "Article"
       ],
       "has_faq": true,
@@ -488,14 +591,15 @@
     {
       "file": "blog/chatgpt-vs-claude-vs-gemini.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/chatgpt-vs-claude-vs-gemini.html",
-      "hash": "41c51340c192b9842d78799116487484",
-      "score": 31,
-      "words": 400,
-      "ext_links": 0,
+      "hash": "ebb11a7e89e8a5140954944d791fee08",
+      "score": 34,
+      "words": 439,
+      "ext_links": 1,
       "schema_types": [
         "Article",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 81,
@@ -504,14 +608,15 @@
     {
       "file": "blog/free-vs-paid-ai-tools.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/free-vs-paid-ai-tools.html",
-      "hash": "c1f77a4350c0ffe3f047402fd2be835a",
-      "score": 31,
-      "words": 412,
-      "ext_links": 0,
+      "hash": "ecc136fbd12e2fb1d0c1b7f70198a5e1",
+      "score": 34,
+      "words": 451,
+      "ext_links": 1,
       "schema_types": [
         "Article",
         "BreadcrumbList",
-        "FAQPage"
+        "FAQPage",
+        "Organization"
       ],
       "has_faq": true,
       "title_len": 86,
