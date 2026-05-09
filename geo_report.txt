@@ -1,22 +1,16 @@
-GEO Monitor Report ！ 2026-05-09 22:07
+GEO Monitor Report ！ 2026-05-09 22:09
 Site: https://lianghuahuang888-dev.github.io/ai-tool-finder
-Pages: 37 | Avg Score: 37.1/90
+Pages: 37 | Avg Score: 37.4/90
 Status: OK
 
-IMPROVEMENTS (9):
-  ai-tool-finder-free-no-signup.html: 34->38 (+4)
-  best-ai-tools-under-20-dollars.html: 34->38 (+4)
-  claude-vs-chatgpt-coding-2026.html: 34->38 (+4)
-  compare.html: 34->38 (+4)
-  midjourney-alternatives-free.html: 34->38 (+4)
-  blog/ai-coding-tools-comparison.html: 32->36 (+4)
-  blog/best-ai-tools-2026.html: 34->38 (+4)
-  blog/chatgpt-vs-claude-vs-gemini.html: 34->38 (+4)
-  blog/free-vs-paid-ai-tools.html: 34->38 (+4)
+IMPROVEMENTS (3):
+  blog.html: 33->35 (+2)
+  blog/ai-content-creation-workflow.html: 34->36 (+2)
+  blog/ai-tools-small-business.html: 34->38 (+4)
 
 BOTTOM 5 pages by score:
-  Score:33 Words: 403 FAQ:Y ！ blog.html
   Score:33 Words: 305 FAQ:Y ！ privacy-policy.html
   Score:34 Words: 413 FAQ:Y ！ affiliate-disclosure.html
-  Score:34 Words: 569 FAQ:Y ！ blog/ai-content-creation-workflow.html
-  Score:34 Words: 492 FAQ:Y ！ blog/ai-image-generator-guide.html
+  Score:34 Words: 521 FAQ:Y ！ blog/ai-image-generator-guide.html
+  Score:35 Words: 466 FAQ:Y ！ blog.html
+  Score:36 Words: 403 FAQ:Y ！ blog/ai-coding-tools-comparison.html

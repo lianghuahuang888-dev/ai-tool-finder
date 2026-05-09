@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-09T22:07:47.704375",
+  "timestamp": "2026-05-09T22:09:47.203890",
   "page_count": 37,
-  "total_score": 1374,
-  "avg_score": 37.1,
+  "total_score": 1382,
+  "avg_score": 37.4,
   "max_per_page": 90,
   "pages": [
     {
@@ -72,9 +72,9 @@
     {
       "file": "blog.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog.html",
-      "hash": "dcaaac109e0a77abed12dab3436c86e2",
-      "score": 33,
-      "words": 403,
+      "hash": "4a961633a61790006eb9304df3e2f5ed",
+      "score": 35,
+      "words": 466,
       "ext_links": 4,
       "schema_types": [
         "Organization",
@@ -475,9 +475,9 @@
     {
       "file": "blog/ai-content-creation-workflow.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-content-creation-workflow.html",
-      "hash": "74a7aa8faef8c81b72fc401e2a8cbf35",
-      "score": 34,
-      "words": 569,
+      "hash": "2093629236959bf6ec6a1d77424d94f8",
+      "score": 36,
+      "words": 588,
       "ext_links": 4,
       "schema_types": [
         "FAQPage",
@@ -491,9 +491,9 @@
     {
       "file": "blog/ai-image-generator-guide.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-image-generator-guide.html",
-      "hash": "94425fd85e01544391becf4d4da2be7d",
+      "hash": "ad7a462fb9ce9f21700988e027580e95",
       "score": 34,
-      "words": 492,
+      "words": 521,
       "ext_links": 1,
       "schema_types": [
         "Article",
@@ -524,10 +524,10 @@
     {
       "file": "blog/ai-tools-small-business.html",
       "url": "https://lianghuahuang888-dev.github.io/ai-tool-finder/blog/ai-tools-small-business.html",
-      "hash": "2a025a45ff523779f4ec9f719162f287",
-      "score": 34,
+      "hash": "e38951cc994099b2d09c0387f77e2d4f",
+      "score": 38,
       "words": 457,
-      "ext_links": 1,
+      "ext_links": 3,
       "schema_types": [
         "Article",
         "BreadcrumbList",
