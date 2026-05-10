@@ -34,6 +34,11 @@ Allow: /
 # Perplexity
 User-agent: PerplexityBot
 Allow: /
+# Microsoft Bing (powers ChatGPT Browse + Copilot)
+User-agent: BingBot
+Allow: /
+User-agent: bingbot
+Allow: /
 # Meta
 User-agent: meta-externalagent
 Allow: /
